@@ -13,7 +13,7 @@ This project explores a simple but important idea:
 The original VL-JEPA paper proposes a non-generative vision-language architecture that predicts **continuous target embeddings** rather than text tokens. This repository does **not** reproduce Meta’s exact training stack. Instead, it builds a **VL-JEPA-style  implementation** with an open backbone so the architecture, loss design, and inference behavior can be studied end-to-end.
 
 ---
-![](VL-Jepa.png)
+![](https://github.com/Pankaj-Leo/VL_JEPA-embedding-space-vlm-demo/blob/main/VL-JEPA.png)
 
 ---
 
